@@ -1,5 +1,8 @@
 # Capítulo 7: Flores entre as rochas
 
+![Capítulo 7: Flores entre as rochas](../assets/Capitulo_07.png)
+*Ao deixar o oásis, Samira contempla o brotamento da vida entre as rochas, levando consigo a sabedoria das raízes.*
+
 Os dias que se seguiram no Oásis da Rocha Cinzenta foram de trabalho árduo, mas também de esperança renovada. O fio de água que brotou durante a Dança da Memória não se tornou um rio da noite para o dia, mas era constante, limpo e aumentava ligeiramente a cada dia que passava. Mais importante ainda, a desesperança que pairava sobre o lugar havia se dissipado como a neblina da manhã.
 
 Inspirados pela redescoberta de sua própria cultura e pela intervenção respeitosa de Samira, os habitantes começaram a agir com um propósito comum. Limparam a fonte com cuidado, desobstruíram os antigos canais que levavam aos pequenos campos, replantaram mudas resistentes perto da água, usando técnicas que os anciãos recordavam. Os mais velhos ensinavam as canções e histórias esquecidas aos mais jovens, que agora ouviam com um interesse genuíno, vendo não apenas velharia, mas sabedoria. Os entalhes nas portas foram restaurados, os talismãs polidos e receberam novas oferendas. A praça, antes silenciosa, agora ecoava com música (mesmo que desafinada às vezes), conversas e até risadas. O oásis ainda tinha suas cicatrizes cinzentas, mas pequenas manchas de cor – um broto verde teimoso, uma flor do deserto desabrochando inesperadamente, o brilho nos olhos de um filhote – começavam a pintar a paisagem.

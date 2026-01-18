@@ -1,5 +1,8 @@
 # Capítulo 6: Tecendo o novo no antigo
 
+![Capítulo 6: Tecendo o novo no antigo](../assets/Capitulo_06.png)
+*Unindo-se à comunidade através da música e da história, Samira catalisa o despertar do espírito do oásis e o retorno da água.*
+
 Samira passou o resto do dia e a noite seguinte em um estado de torpor. Sentou-se perto da fonte seca, observando a areia e sentindo o vazio dentro de si. A arrogância de sua juventude, sua crença na supremacia da inovação sobre a tradição, tudo isso havia se despedaçado contra a dura realidade do Oásis da Rocha Cinzenta.
 
 Foi o velho lagarto quem a encontrou ali, encolhida sob a luz pálida da lua. Ele sentou-se ao seu lado em silêncio por um longo tempo, oferecendo uma presença calma que era, em si, um consolo.

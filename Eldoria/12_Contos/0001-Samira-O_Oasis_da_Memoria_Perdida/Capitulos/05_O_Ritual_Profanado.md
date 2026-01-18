@@ -1,5 +1,8 @@
 # Capítulo 5: O ritual profanado
 
+![Capítulo 5: O ritual profanado](../assets/Capitulo_05.png)
+*A tentativa desesperada de forçar um ritual resulta em magia distorcida e medo, enquanto a fonte estremece sob a força bruta.*
+
 O desespero começava a tomar conta de Samira. Suas danças não funcionavam, sua exploração fora inconclusiva. O oásis estava morrendo, e sua própria magia parecia desvanecer junto com ele. Ela precisava tentar algo drástico, algo que provasse o poder de sua arte, mesmo que à força.
 
 Lembrou-se dos símbolos que vira nas ruínas do santuário, dos entalhes que mostravam criaturas dançando ao redor da água. Lembrou-se das palavras do velho lagarto sobre rituais e conexão. E se ela recriasse um desses rituais? Mas do *seu* jeito? Com *sua* magia? Talvez uma demonstração de poder pudesse chocar o espírito da fonte de volta à vida.

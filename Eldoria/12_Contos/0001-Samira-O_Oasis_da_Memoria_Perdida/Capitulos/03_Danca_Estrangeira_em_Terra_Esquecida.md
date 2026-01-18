@@ -1,5 +1,8 @@
 # Capítulo 3: Dança estrangeira em terra esquecida
 
+![Capítulo 3: Dança estrangeira em terra esquecida](../assets/Capitulo_03.png)
+*Sob um pôr do sol dramático, Samira executa uma dança técnica e complexa, criando cidades de cristal que os habitantes observam com estranhamento.*
+
 No dia seguinte, Samira decidiu que a melhor forma de combater a apatia era com um choque de beleza e energia. Se a primeira dança não havia funcionado, talvez fosse porque não havia sido grandiosa o suficiente. Ela precisava mostrar-lhes algo que jamais tivessem visto, algo tão espetacular que seria impossível ignorar.
 
 Esperou o pôr do sol, quando o calor diminuía e as cores do céu se tornavam mais dramáticas. Escolheu um local ligeiramente elevado, nas rochas que margeavam a praça. Respirou fundo, tentando buscar dentro de si a faísca de inspiração que parecia tão fraca naquele lugar.

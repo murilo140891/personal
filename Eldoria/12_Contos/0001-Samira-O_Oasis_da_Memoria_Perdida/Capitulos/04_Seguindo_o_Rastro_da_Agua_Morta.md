@@ -1,5 +1,8 @@
 # Capítulo 4: Seguindo o rastro da água morta
 
+![Capítulo 4: Seguindo o rastro da água morta](../assets/Capitulo_04.png)
+*Samira explora os desfiladeiros e descobre o antigo círculo de pedras, um altar esquecido que guarda os segredos da fonte.*
+
 A frustração corroía Samira. Se sua arte mais bela não podia inspirar, talvez o problema fosse mais... físico. O velho lagarto falara da fonte como o espírito do oásis, mas e se houvesse uma causa prática para a água estar secando? Um bloqueio? Um desvio?
 
 Com a agilidade natural de sua raça, Samira decidiu explorar. Deixou a apatia do oásis para trás e se aventurou pelas formações rochosas que o cercavam, seguindo o leito seco do que um dia fora um riacho mais volumoso. Suas pequenas patas eram ágeis nas pedras, seus olhos atentos a qualquer sinal incomum.

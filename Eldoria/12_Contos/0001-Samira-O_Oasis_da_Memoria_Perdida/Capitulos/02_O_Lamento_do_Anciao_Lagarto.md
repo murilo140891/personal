@@ -1,5 +1,8 @@
 # Capítulo 2: O lamento do Ancião Lagarto
 
+![Capítulo 2: O lamento do Ancião Lagarto](../assets/Capitulo_02.png)
+*Na penumbra da cabana, Samira ouve com empatia o lamento do ancião sobre as memórias perdidas do oásis.*
+
 A sensação era desconcertante. Samira estava acostumada a ser o centro das atenções, a sentir a energia do público fluir para ela, alimentando sua magia. Ali, no Oásis da Rocha Cinzenta, era o oposto: o lugar parecia sugar sua vitalidade, deixando suas ilusões pálidas e seus movimentos menos inspirados. A fraqueza em sua própria magia, espelhando a fraqueza da fonte, a incomodava profundamente. Deixar aquele lugar, naquele estado, pareceu-lhe subitamente impensável. Era uma afronta à sua própria natureza.
 
 "Os velhos tempos?", perguntou Samira ao lagarto ancião, aproximando-se com uma curiosidade que superava seu desapontamento. "O que quer dizer?".
