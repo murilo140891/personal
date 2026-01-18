@@ -1,20 +1,35 @@
-# Raças e Povos
+# Raças e Povos de Eldoria
 
-## Povos de Eldoria
-- [Raça Exemplo](./Raca_Exemplo.md)
+As raças de Eldoria são humanoides bestiais cujas características são moldadas pelos biomas onde habitam.
 
----
-### Template de Raça (YAML Frontmatter)
-```markdown
----
-tipo: raca
-nome: "Nome da Raça"
-origem: "Continente/Região"
-expectativa_vida: "Anos"
-idioma: "Nome do Idioma"
-tags: [ancestral, magico, numeroso]
----
+## Raças por Bioma
 
-# Nome da Raça
-Descrição biológica e social...
-```
+### Planície
+- [Leões](../04_Racas/Leoes.md)
+- [Rinocerontes](../04_Racas/Rinocerontes.md)
+- [Hienas](../04_Racas/Hienas.md)
+
+### Floresta
+- [Pandas](../04_Racas/Pandas.md)
+- [Castores](../04_Racas/Castores.md)
+
+### Montanha
+- [Cabras-da-montanha](../04_Racas/Cabras.md)
+- [Carneiros Selvagens](../04_Racas/Carneiros.md)
+
+### Deserto
+- [Suricates](../04_Racas/Suricates.md)
+- [Serpentes](../04_Racas/Serpentes.md)
+
+### Pântano
+- [Garças](../04_Racas/Garcas.md)
+- [Sapos](../04_Racas/Sapos.md)
+- [Lontras](../04_Racas/Lontras.md)
+
+### Aquático
+- [Caranguejos](../04_Racas/Caranguejos.md)
+- [Tartarugas](../04_Racas/Tartarugas.md)
+
+### Celestial
+- [Grifos](../04_Racas/Grifos.md)
+- [Corujas Astrais](../04_Racas/Corujas.md)

@@ -1,26 +1,27 @@
-# Localidades e Pontos de Interesse
+# 🏙️ Cidades de Eldoria
 
-Esta pasta contém locais específicos dentro das cidades ou ermos.
+As cidades em Eldoria são bastiões de civilização adaptados aos biomas extremos. Aqui você documenta cada centro urbano em detalhes.
 
-## Categorias
-- **Comércio**: Lojas, mercados e feiras.
-- **Abrigos**: Estalagens, refúgios e casas de personagens.
-- **Exploração**: Cavernas, ruínas e torres.
+## 📋 Como Documentar uma Cidade
+Use o arquivo de template para manter a consistência e garantir que todos os aspectos (Cultura, Política, Economia, etc.) sejam cobertos.
+
+1.  Abra o [**Template de Cidade**](./Template_Cidade.md).
+2.  Copie o conteúdo.
+3.  Crie um novo arquivo `.md` nesta pasta (ex: `Nome_Da_Cidade.md`).
+4.  Cole e comece a escrever.
+
+## 📍 Cidades Documentadas
+- *Nenhuma cidade documentada ainda.*
 
 ---
-### Template de Localidade (YAML Frontmatter)
-*Copie e cole no topo do seu novo arquivo .md:*
 
-```markdown
----
-tipo: localidade
-nome: "Nome do Local"
-cidade: "Cidade Referência"
-categoria: "Loja/Caverna/Abrigo"
-dono: "Link para Personagem"
-tags: [importante, misterioso, perigoso]
----
-
-# Nome do Local
-Descrição detalhada...
-```
+## 🏗️ Estrutura de Documentação Interna
+Cada página de cidade segue esta organização:
+- **Briefing**: Visão geral e atmosfera.
+- **Cultura**: Vida intelectual e social.
+- **Política**: Governança e leis.
+- **Comercial**: Economia e recursos.
+- **Tecnologia**: Inovação e arquitetura.
+- **Demografia**: Censo populacional.
+- **Clima e Relevo**: Geografia local.
+- **Conflitos**: Problemas internos e externos.
