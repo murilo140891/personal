@@ -27,10 +27,11 @@ status: "Vivo"
 ## 🎭 Aparência
 Samira é uma suricate de corpo esguio, flexível e musculoso, perfeitamente adaptado para a dança e para a agilidade exigida pelo deserto.
 
-- **Pelagem**: Tons de areia clara, dourado ou prateado para camuflagem, com manchas ou listras mais escuras detalhadas no rosto, costas e cauda.
-- **Olhos**: Grandes, expressivos e vibrantes (dourados ou alaranjados), brilhando com uma mistura de curiosidade, magia e travessura.
-- **Vestuário**: Roupas leves de tecidos translúcidos (seda selvagem ou fibra de plantas do deserto) em cores de pôr do sol. Usa adereços ruidosos como conchas furadas e sinos que acompanham seu ritmo.
-- **Adereços**: Carrega uma bolsa de couro com pigmentos naturais, pincéis, um refletor de obsidiana polida e seu leque de penas de aves raras.
+- **Pelagem**: Tons de areia clara e dourado, adornada com marcantes **pinturas tribais em azul turquesa** nos braços, pernas e bochechas.
+- **Olhos**: Exibe uma fascinante **heterocromia**, com o olho esquerdo dourado e o direito em um azul cristalino vibrante.
+- **Cauda**: Longa e expressiva, decorada com grandes **anéis coloridos** (amarelo, rosa e azul) próximos à ponta escura.
+- **Vestuário**: Veste um conjunto leve em branco e turquesa com detalhes de conchas. Na cabeça, usa um **longo véu branco** preso por uma tiara dourada com gemas azuis.
+- **Adereços**: Carrega sua inseparável bolsa de couro transversal contendo **frascos de pigmentos coloridos**, pincéis e um espelho de mão para suas pinturas e maquiagens.
 
 ---
 
