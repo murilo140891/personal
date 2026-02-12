@@ -16,6 +16,7 @@ As histórias geradas por esta skill devem aspirar ao nível de qualidade das se
 - **Simbolismo e Poesia**: *O Pequeno Príncipe* (Saint-Exupéry).
 - **Dedução e Lógica**: *Sherlock Holmes* (Sir Arthur Conan Doyle).
 - **Humor e Timing**: *Renato Albani* (Stand-up Comedy).
+- **Encantamento e Emoção**: *Disney* (Narrativa e Coração).
 
 ## 👥 Público-Alvo
 - **Idade**: Principalmente 14 anos ("Young Adult"), mas com camadas de profundidade, vocabulário e temas que a tornem igualmente atraente para adultos.
