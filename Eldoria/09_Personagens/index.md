@@ -11,7 +11,10 @@ Para garantir que seus personagens tenham profundidade narrativa e consistência
 4.  Cole e preencha as conexões.
 
 ## 👥 Habitantes Documentados
-- *Nenhum personagem registrado ainda.*
+- [[Samira]]: A Dançarina das Miragens
+- [[Ecco]]: O Príncipe das Piadas
+- [[Fenwick]]: O Mestre Decifrador
+- [[Umbrakar]]: A Muralha de Pedra
 
 ---
 

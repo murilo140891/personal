@@ -1,0 +1,9 @@
+# Capítulo 7: Um Novo Crepúsculo
+
+A decisão de proteger as gazelas não apagou as cicatrizes de Umbrakar. A vingança contra os Ceifadores de Chifres ainda era uma dívida no seu coração. Mas a pergunta de Kael agora tinha o início de uma resposta.
+
+Ele continuou a sua guerra solitária, arriscando a própria vida a cada passo. O seu foco, porém, começou a alargar-se. Sim, ele caçava os responsáveis pelo massacre, e a sua justiça era invariavelmente severa. Mas, ao lembrar-se do sacrifício do seu pai ao defender o clã com força e estratégia, e da sua mãe ao interpor-se para o salvar, e pela vulnerabilidade que testemunhara nas gazelas, ele começou a ver um propósito maior na sua força. Assim como a intervenção pelas gazelas lhe mostrara, a sua força poderia ser mais do que uma ferramenta de retaliação. Poderia ser uma muralha que protegeria os mais fracos.
+
+Ele começou a desmantelar as operações dos Ceifadores e a proteger os inocentes. A sua brutalidade em combate permanecia – era a sua natureza, a sua ferramenta mais eficaz – mas agora era, na maioria das vezes, uma força calculada, usada para incapacitar e proteger. A tentação da fúria cega ainda o assaltava, e por vezes ele quase sucumbia, o eco da selvageria de Kael o chamava. Mas a lembrança dos olhos da jovem gazela e a memória de seus pais, o puxavam de volta da beira do abismo.
+
+A sua lenda cresceu e se tornou conhecido na região como “A Muralha de Pedra”. Um espectro temido pelos criminosos, uma figura ambivalente para os pacíficos – um guardião sombrio. Ele não encontrou a paz. Mas na sua guerra incansável, encontrou um propósito que ia além do sangue e da destruição. Enquanto houvesse sombras na planície, ele estaria lá, um chifre quebrado que se recusava a cair, a procurar não apenas vingança, mas uma forma de justiça que, talvez, um dia, pudesse começar a curar as cicatrizes na sua alma e na própria terra.

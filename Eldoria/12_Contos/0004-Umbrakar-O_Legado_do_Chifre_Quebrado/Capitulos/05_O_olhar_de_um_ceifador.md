@@ -1,0 +1,15 @@
+# Capítulo 5: O olhar de um ceifador
+
+O sol da manhã seguinte encontrou Umbrakar ainda em Rocha Vermelha, uma estátua imóvel de luto e violência. O corpo de Kael, já a atrair os primeiros abutres que circulavam no céu limpo do pós-tempestade, era um testemunho grotesco da sua vitória. A tempestade passara, deixando o ar fresco e frio, mas a tempestade dentro de Umbrakar apenas começara, rugindo no silêncio ensurdecedor da sua mente.
+
+"Em que... em que é que és diferente de nós agora?"
+
+As últimas palavras de Kael, um sussurro borbulhante de sangue e desprezo, eram um veneno que se espalhava lentamente pelas suas veias. Ele tentou descartá-las como o último ato de despeito de um monstro, mas as palavras tinham garras. Agarraram-se à sua consciência e não o largavam. Ele olhou para as suas mãos, ainda manchadas, para a lança de obsidiana caída ao seu lado – a arma dos seus inimigos, que ele empunhara com uma facilidade aterradora.
+
+Ele vagueou para fora da caverna, deixando a carnificina para trás, e começou a caminhar sem rumo pelas planícies. O sabor da vingança, que ele imaginara ser doce como a primeira chuva após a seca, era, na verdade, cinzas na sua boca. Ele matara um dos principais carrascos da sua manada. Deveria sentir triunfo. Deveria sentir alívio, uma sensação de justiça cumprida. Mas o que sentia era um cansaço profundo, uma náusea existencial que parecia emanar do próprio solo sob as suas patas.
+
+A caçada o consumira. A violência, antes uma ferramenta de necessidade, tornara-se a sua única linguagem, a sua única forma de interagir com o mundo. Ao longe, viu uma manada de gnus a pastar pacificamente, os seus filhotes a correr em círculos despreocupados. Antes da tragédia, ele teria visto uma cena familiar, uma parte da ordem natural da planície. Agora, olhava para eles e via apenas fragilidade, uma vulnerabilidade à espera de ser explorada. E essa perceção fria e predatória aterrorizou-o. Ele via o mundo através dos olhos de um Ceifador.
+
+Ele se tornara naquilo que temia? Um monstro com uma justificação, uma história trágica para legitimar a sua brutalidade? A linha entre o justiceiro e o assassino tornara-se tão ténue que ele já não conseguia distingui-la. A organização dos Ceifadores ainda estava lá fora. Havia outros como Kael. A sua vingança estava completa, ou ele estava apenas no início de um ciclo interminável de sangue e retaliação, onde cada morte o afundaria mais na escuridão, tornando-o cada vez mais parecido com eles?
+
+A imagem da sua mãe, o seu último olhar de amor e sacrifício, assombrou-o. Ela morrera para que ele sobrevivesse, não para que ele se tornasse um eco dos seus assassinos. O seu pai lutara com a fúria de um protetor, não com o sadismo de um carrasco. Estava ele a honrar a memória deles, ou apenas a chafurdar na mesma selvageria que os destruíra? O vazio no seu peito, um abismo onde antes havia uma família, era a resposta aterradora. Ele estava sozinho, não apenas na planície, mas dentro de si mesmo, perdido num deserto de ódio que ele próprio criara.

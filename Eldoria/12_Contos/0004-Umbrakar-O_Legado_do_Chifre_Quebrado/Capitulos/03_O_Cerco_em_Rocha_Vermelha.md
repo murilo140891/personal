@@ -1,0 +1,19 @@
+# Capítulo 3: O Cerco em Rocha Vermelha
+
+A perseguição implacável de Umbrakar afunilou-se, transformando-se de uma caçada cega numa perseguição estratégica. Kael, sentindo a rede a apertar-se, tornou-se cada vez mais errático. Os seus ataques a caravanas tornaram-se descuidados, as suas ordens aos subordinados, contraditórias e tingidas de paranoia. Finalmente, com os seus números a diminuir e a sua reputação em frangalhos, o lince encurralado cometeu um erro: procurou refúgio num lugar que considerava uma fortaleza impenetrável – Rocha Vermelha, um antigo labirinto de formações de arenito, onde o vento uivava como os espíritos dos mortos e cada desfiladeiro era uma potencial emboscada. Ele não estava mais a fugir; estava a preparar uma armadilha, esperando que a sua astúcia no terreno superasse a força bruta do rinoceronte.
+
+Umbrakar aceitou o desafio. Ao chegar aos limites de Rocha Vermelha, sentiu a mudança no ar. A planície aberta dera lugar a um ambiente claustrofóbico de pedra e sombra. O cheiro de Kael – uma mistura de almíscar felino e o odor de couro e metal das suas vestes – estava impregnado nas rochas, sendo ao mesmo tempo um convite e um aviso.
+
+Por dias, Umbrakar não atacou. Ele circulou o perímetro do labirinto como um predador paciente, o seu machado de pedra a postos, mas a sua mente era a sua principal arma. Escalou as paredes íngremes de arenito, o seu corpo pesado movendo-se com uma agilidade surpreendente, aprendida na dureza da sua jornada. Do alto, observava. Mapeava cada fenda, cada passagem, cada possível ponto de vigia. Aprendeu os ritmos do acampamento de Kael, a cadência nervosa dos seus guardas.
+
+Ele via o desespero de Kael manifestar-se. Numa tarde, escondido numa saliência rochosa, Umbrakar testemunhou Kael a punir brutalmente um dos seus seguidores javalis por ter deixado cair uma ração de água. Não era a disciplina de um líder; era a fúria impotente de uma criatura enjaulada, açoitada pelo medo. Os guardas de Kael não eram mais leais seguidores; eram prisioneiros de um tirano em colapso, e o medo deles era uma fraqueza que Umbrakar sabia que podia explorar.
+
+As noites em Rocha Vermelha eram preenchidas não com o uivo dos chacais, mas com o silêncio pesado da antecipação. Umbrakar esperava pela sua aliada perfeita. E ela veio no terceiro dia de vigília: uma tempestade formava-se no horizonte, nuvens escuras e pesadas rolando sobre as planícies. O vento começou a assobiar pelos desfiladeiros, um presságio sonoro da violência que estava para vir.
+
+A tempestade não era um obstáculo; era a sua cobertura. O vento abafaria os seus passos e os gritos dos seus inimigos. A chuva lavaria os seus rastros. A escuridão, amplificada pelas nuvens, seria o domínio da sua magia de camuflagem noturna.
+
+Ele desceu da sua vigia, tornando-se uno com as sombras das rochas escuras. Infiltrou-se no coração do labirinto, um espectro de vingança movendo-se através do terreno que Kael escolhera para sua armadilha. O lince, na sua arrogância, acreditava que ninguém poderia navegar por aquele labirinto traiçoeiro na escuridão de uma tempestade. Ele não contava com um caçador que fizera da escuridão o seu lar.
+
+Umbrakar encontrou o último refúgio de Kael – uma pequena caverna, protegida pela entrada estreita de um desfiladeiro. Apenas dois guardas restavam, os mais leais ou os mais aterrorizados: um javali com uma clava e uma hiena com uma lança curta. Eles estavam encolhidos perto da entrada da caverna, tentando proteger-se do vento cortante, os seus rostos uma máscara de exaustão e medo. Eles não guardavam a entrada com vigilância, mas como prisioneiros guardando a sua própria cela.
+
+Umbrakar sentiu o cheiro do medo deles, um fedor azedo que quase o fez sorrir. O cerco estava completo. A caçada estava prestes a terminar. A presa final estava à vista.

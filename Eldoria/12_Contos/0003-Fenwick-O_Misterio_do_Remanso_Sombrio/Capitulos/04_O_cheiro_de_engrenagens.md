@@ -1,0 +1,17 @@
+# Capítulo 4: O cheiro de engrenagens
+
+As palavras de Grok reforçaram a hipótese de um mecanismo. Mas onde? E o que era aquele resíduo oleoso? Fenwick voltou suas atenções para as vibrações na água, o "zumbido profundo" mencionado pelas outras lontras. Se havia uma máquina, ela deveria gerar alguma perturbação constante.
+
+Ele passou horas nadando em silêncio pelos canais próximos ao território de Krek, concentrando-se em seus bigodes sensíveis, mapeando a intensidade das vibrações. Era um trabalho meticuloso, como montar um quebra-cabeça no escuro. Gradualmente, um padrão emergiu. As vibrações pareciam mais fortes em uma área específica, um emaranhado denso de raízes de mangue e cipós submersos que a maioria das criaturas evitava.
+
+O cheiro metálico e oleoso também se intensificou ali. Com extremo cuidado, Fenwick afastou a vegetação aquática e encontrou o que procurava: uma entrada estreita, quase invisível, para uma estrutura artificial escondida no leito do rio.
+
+Era feita de troncos grossos amarrados com cipós resistentes, mas claramente reforçada com placas de metal enferrujado e o que pareciam ser engrenagens e tubos interligados. Era antiga, mas parecia ter sido recentemente reparada em alguns pontos. E, presa a uma das engrenagens maiores, parcialmente coberta de lodo, ele viu outra escama metálica acobreada, idêntica à primeira.
+
+O resíduo oleoso escorria lentamente de um dos tubos, turvando a água ao redor com um brilho iridescente. Fenwick coletou mais uma amostra. Aproximou-se. O zumbido era mais forte ali, quase um ronronar grave. “Definitivamente uma máquina”, pensou. “But qual o propósito? Afastar os peixes? Ou...”, uma ideia começou a surgir. “E se não for para afastar? E se for para atrair?”.
+
+Ele tentou examinar o mecanismo mais de perto. Havia uma alavanca enferrujada, alguns mostradores com símbolos desconhecidos. Enquanto esticava a pata para limpar o lodo de um mostrador, sentiu uma mudança sutil na corrente da água ao redor da estrutura, seguida por um leve estalo vindo de um junco próximo. Um alarme! Não elétrico, mas mecânico, provavelmente um fio fino conectado a um sinalizador na superfície. Simples, mas eficaz no silêncio do pântano.
+
+Fenwick recuou imediatamente, misturando-se às sombras das raízes antes que qualquer um pudesse chegar. Ele havia encontrado a máquina, ou parte dela, e tinha uma nova hipótese sobre sua função – atrair, não repelir. Mas também havia alertado Krek novamente. E ainda faltava a peça mais importante: o que alimentava aquela engenhoca?
+
+De volta à relativa segurança de seu escritório flutuante, ele examinou a amostra do resíduo oleoso sob a luz do lampião de fogo-fátuo. O brilho iridescente, o cheiro metálico sutil, a leve sensação de energia... Aquilo lhe trazia à mente fragmentos de uma lenda quase esquecida, contada em voz baixa pelos anciãos do pântano. A lenda da *luz-do-lodo* – algas que brilhavam com luz própria nas cavernas mais profundas, cuja energia era dita ser imensamente poderosa, mas terrivelmente instável e perigosa de se coletar. Seria possível? Krek estaria usando essa substância mítica e volátil para energizar seu 'trambolho de metal'? Explicaria o segredo, o perigo, talvez até as vibrações e o resíduo. Era uma hipótese audaciosa, quase fantástica. Mas, no mundo sombrio de Krek, o fantástico muitas vezes se tornava real. Fenwick precisava de confirmação. Precisava encontrar alguém que soubesse a verdade por trás do cheiro de engrenagens e da lenda sussurrada.
