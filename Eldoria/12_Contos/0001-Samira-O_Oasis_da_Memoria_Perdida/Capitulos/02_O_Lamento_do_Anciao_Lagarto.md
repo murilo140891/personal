@@ -11,7 +11,7 @@ O lagarto suspirou um som seco como folhas mortas. "Ah, jovem dançarina... este
 
 Samira franziu o nariz delicado. Rituais? Canções antigas? Aquilo soava terrivelmente parecido com as tradições rígidas e sem vida que a fizeram deixar sua própria comunidade suricate. Lá, a arte tinha regras, a dança tinha passos fixos, e a espontaneidade era vista com desconfiança. Ela buscava a inovação, a liberdade de expressão.
 
-"But o que canções têm a ver com a água?", ela perguntou, tentando manter o ceticismo fora de sua voz.
+"Mas o que canções têm a ver com a água?", ela perguntou, tentando manter o ceticismo fora de sua voz.
 
 "Tudo!", respondeu o lagarto, os olhos pequenos brilhando com uma fagulha de convicção. "A fonte não é só água, é o espírito do oásis. Nossos pais sabiam como honrá-la, como pedir sua bênção. Havia a Dança da Primeira Chuva, o Canto da Lua Cheia... eram eles que mantinham a conexão forte. Agora... agora a conexão está morrendo, como a fonte."
 
