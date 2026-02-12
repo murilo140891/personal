@@ -14,6 +14,8 @@ As histórias geradas por esta skill devem aspirar ao nível de qualidade das se
 - **Espiritualidade e Resiliência**: *Vida de Santo Inácio* (J.M.S. Daurignac).
 - **Construção de Mundo e Épica**: *Senhor dos Anéis* (Tolkien).
 - **Simbolismo e Poesia**: *O Pequeno Príncipe* (Saint-Exupéry).
+- **Dedução e Lógica**: *Sherlock Holmes* (Sir Arthur Conan Doyle).
+- **Humor e Timing**: *Renato Albani* (Stand-up Comedy).
 
 ## 👥 Público-Alvo
 - **Idade**: Principalmente 14 anos ("Young Adult"), mas com camadas de profundidade, vocabulário e temas que a tornem igualmente atraente para adultos.
